@@ -1,4 +1,3 @@
-# pharma-data-quality-pipeline
 # 🧬 Automated Clinical Data Quality Pipeline (ETL)
 
 ## 📌 The Business Problem
